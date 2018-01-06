@@ -1,12 +1,11 @@
 # compressedfile-contents
 
-prints the list of files after extracting .tar.gz file  
-
+drag and drop the .tgz file into the  browser window. watch the console for output
 ## Usage
 
 ```sh
 $ npm install
-$ wzrd index.js
+$ npm start
 ```
 ##License
 MIT
